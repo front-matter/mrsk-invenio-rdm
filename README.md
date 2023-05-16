@@ -1,1 +1,1 @@
-# invenio-rdm-demo
+# mrsk-invenio-rdm
